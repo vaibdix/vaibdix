@@ -1,6 +1,6 @@
 ### Hi there, I'm Vaibhav 👋
 
-[![Website](https://img.shields.io/website?down_color=Red&down_message=Down&label=Webalar&style=for-the-badge&up_color=green&up_message=UP&url=https%3A%2F%2Fwebalar.in%2F)](https://webalar.in/)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/dixitvaib?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/dixitvaib)
 
 ##  Hi, I'm Vaibhav Dixit, A Full Stack Developer 🚀 from India
@@ -42,7 +42,6 @@
 
 </details>
 
-[website]: https://webalar.in/
 [twitter]: https://twitter.com/dixitvaib
 [linkedin]: https://www.linkedin.com/in/vaibhav-dixit-7a7622117
 
