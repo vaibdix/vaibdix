@@ -6,7 +6,7 @@
 ### Hi there and welcome to my GitHub page 👋
 
 
-Hi, I'm Vaibhav Dixit, A Full Stack Developer 🚀 from Mumbai, India. I do a lot of things, and some of them you may even find interesting.🤞
+Hi, I'm Vaibhav Dixit, A Full Stack Developer 🚀 from Mumbai, India. I do a lot of things, and some of them you may even find interesting.
 
 ---
 
