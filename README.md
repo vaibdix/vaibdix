@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dixitvaib?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/dixitvaib)
 
-### Hi there and welcome to my GitHub page 👋
+### Welcome to my GitHub page 
 
 
 Hi, I'm Vaibhav Dixit, A Full Stack Developer 🚀 from Mumbai, India. I do a lot of things, and some of them you may even find interesting.
@@ -52,3 +52,6 @@ Hi, I'm Vaibhav Dixit, A Full Stack Developer 🚀 from Mumbai, India. I do a lo
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vaibdix&hide=css,java,html&theme=radical">
 </p>
 
+<div align="center">
+  <img src="https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51cc5933d368febc351897_footer-img.svg">
+</div>
