@@ -1,10 +1,4 @@
-### Hi there, I'm Vaibhav 👋
-
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/dixitvaib?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/dixitvaib)
-
-### Welcome to my GitHub page 
-
+### Hi there, I'm Vaibhav 👋 
 
 Hi, I'm Vaibhav Dixit, A Full Stack Developer 🚀 from Mumbai, India. I do a lot of things, and some of them you may even find interesting.
 
@@ -13,6 +7,7 @@ Hi, I'm Vaibhav Dixit, A Full Stack Developer 🚀 from Mumbai, India. I do a lo
 ### What do I do?
 
 <p>
+  <img alt="React" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -21,11 +16,15 @@ Hi, I'm Vaibhav Dixit, A Full Stack Developer 🚀 from Mumbai, India. I do a lo
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=for-the-badge" />
   <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
-
+  <img alt="" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge">
+  <img alt="Arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+  <img alt="neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 </p>
 
 - I’m currently working as a Freelancer. 
-- I’m currently learning React.
+- I’m currently learning Nextjs.
+
+
 
 ---
 
