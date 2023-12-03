@@ -47,7 +47,7 @@ Hi, I'm Vaibhav Dixit, A Full Stack Developer 🚀 from Mumbai, India. I do a lo
 
 
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=vaibdix&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=vaibdix&show_icons=true&theme=vue-dark&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=vaibdix&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark">
 </p>
 
